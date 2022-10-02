@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FAFAFA</color>
+    <color name="midnight">#141522</color>
+    <color name="grape">#864879</color>
+    <color name="grapeDarker">#3F3351</color>
+</resources>
